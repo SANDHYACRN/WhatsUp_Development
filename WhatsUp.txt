@@ -1,0 +1,9 @@
+THIS IS WHATSUP CODE
+
+Author :  Sandhya CR
+
+
+1.Profile page coe  
+2.Chat screen code
+3.Last seen code 
+4.Attachments (Image,  Audio , Video) code
