@@ -10,3 +10,4 @@ Author :  Sandhya CR
 5.Hiding the last seen
 6.adding the audio call features
 7.adding the video call features
+8.adding stauts so that user can play train games
